@@ -9,7 +9,7 @@
 				<search string="Product">
 					<field name="product_brand_id" string="Brand"/>
 					<field name="default_code" string="Reference"/>
-					<field name="ean13" string="Barcode"/>
+					<field name="barcode" string="Barcode"/>
 					<separator/>
 				</search>
 			</field>
@@ -23,7 +23,7 @@
 				<search string="Product">
 					<field name="product_brand_id" string="Brand"/>
 					<field name="default_code" string="Reference"/>
-					<field name="ean13" string="Barcode"/>
+					<field name="barcode" string="Barcode"/>
 					<separator/>
 				</search>
 			</field>
