@@ -25,7 +25,7 @@
 					<field name="default_code" string="Reference"/>
 					<field name="barcode" string="Barcode"/>
 					<separator/>
-				</search>
+				</xpath>
 			</field>
 		</record>
 	</data>
