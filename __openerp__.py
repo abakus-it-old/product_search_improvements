@@ -1,6 +1,6 @@
 {
     'name': "Product list search improvements",
-    'version': '1.1',
+    'version': '9.0.1.0',
     'depends': ['product', 'sale', 'product_brand'],
     'author': "Valentin THIRION, AbAKUS it-solutions SARL",
     'website': "http://www.abakusitsolutions.eu",
